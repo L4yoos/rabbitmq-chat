@@ -33,22 +33,6 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- Mockito Core -->
-        <dependency>
-            <groupId>org.mockito</groupId>
-            <artifactId>mockito-core</artifactId>
-            <version>5.12.0</version>
-            <scope>test</scope>
-        </dependency>
-
-        <!-- Mockito JUnit Jupiter Integration -->
-        <dependency>
-            <groupId>org.mockito</groupId>
-            <artifactId>mockito-junit-jupiter</artifactId>
-            <version>5.12.0</version>
-            <scope>test</scope>
-        </dependency>
-
         <!-- PostgreSQL -->
         <dependency>
             <groupId>org.postgresql</groupId>

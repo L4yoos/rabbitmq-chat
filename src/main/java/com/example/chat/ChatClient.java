@@ -16,7 +16,7 @@ public class ChatClient {
 
     public static void main(String[] args) throws Exception {
         if (args.length < 1) {
-            System.out.println("Use: java ChatClient <nick>");
+            System.out.println("Use: mvn exec:java -Dexec.args=<nick>");
             System.exit(1);
         }
 
