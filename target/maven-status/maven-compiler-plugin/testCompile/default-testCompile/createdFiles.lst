@@ -1,0 +1,7 @@
+com/example/chat/ChatSenderTest.class
+com/example/chat/ChatClientTest.class
+com/example/chat/repository/MessageRepositoryTest.class
+com/example/chat/ChatReceiverTest.class
+com/example/chat/db/DatabaseInitializerTest.class
+com/example/chat/repository/UserRepositoryTest.class
+com/example/chat/db/DatabaseConnectionProviderTest.class

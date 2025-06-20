@@ -1,0 +1,8 @@
+com/example/chat/ChatReceiver.class
+com/example/chat/ChatSender.class
+com/example/chat/repository/MessageRepository.class
+com/example/chat/db/DatabaseInitializer.class
+com/example/chat/ChatClient.class
+com/example/chat/repository/UserRepository.class
+com/example/chat/db/DatabaseConnectionProvider.class
+com/example/chat/entity/Message.class

@@ -1,0 +1,7 @@
+/Users/l4yoos/Desktop/rabbitmq-chat/src/test/java/com/example/chat/ChatClientTest.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/test/java/com/example/chat/ChatReceiverTest.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/test/java/com/example/chat/ChatSenderTest.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/test/java/com/example/chat/db/DatabaseConnectionProviderTest.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/test/java/com/example/chat/db/DatabaseInitializerTest.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/test/java/com/example/chat/repository/MessageRepositoryTest.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/test/java/com/example/chat/repository/UserRepositoryTest.java

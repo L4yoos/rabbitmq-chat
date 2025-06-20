@@ -1,0 +1,8 @@
+/Users/l4yoos/Desktop/rabbitmq-chat/src/main/java/com/example/chat/ChatClient.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/main/java/com/example/chat/ChatReceiver.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/main/java/com/example/chat/ChatSender.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/main/java/com/example/chat/db/DatabaseConnectionProvider.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/main/java/com/example/chat/db/DatabaseInitializer.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/main/java/com/example/chat/entity/Message.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/main/java/com/example/chat/repository/MessageRepository.java
+/Users/l4yoos/Desktop/rabbitmq-chat/src/main/java/com/example/chat/repository/UserRepository.java
