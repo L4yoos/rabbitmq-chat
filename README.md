@@ -95,3 +95,8 @@ rabbitmq-chat uses the JUnit test framework. Run the test suite with:
 docker run L4yoos/rabbitmq-chat mvn test
 mvn test
 ```
+
+
+## 🎬 Demo
+
+![App Demo](demo.gif)
