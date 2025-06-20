@@ -41,8 +41,6 @@ This project provides a solid foundation for real-time communication systems. Th
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Testing](#-testing)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
